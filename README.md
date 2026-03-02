@@ -1,4 +1,4 @@
-# 📄 Velora Nectar – GSAP Luxury Cocktail Experience
+# 🍷 Velora Nectar – GSAP Luxury Cocktail Experience
 
 Velora Nectar is a premium, scroll-driven cocktail website built using React, GSAP, and Tailwind CSS.
 
